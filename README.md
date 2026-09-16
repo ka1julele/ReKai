@@ -10,19 +10,16 @@ can be used for gain access into machines you don't have permissions. Please, al
 
 ## ✨ Features
 
-+----------------+----------------------------------------------+
-|                |                                              |
-| ✅ Hides CMD   | The Payload hides cmd.exe                    |
-|                |                                              |
-+----------------+----------------------------------------------+
-|                |                                              |
-| ❌ EDR bypass  | The payload does not content obfuscation     |
-|                |                                              |
-+----------------+----------------------------------------------+
-|                |                                              |
-| ✅ Free navi   | Free CMD navigation without target knowledge |
-|                |                                              |
-+----------------+----------------------------------------------+
+```bash
+                    
+  ✅ Hides CMD        The Payload hides cmd.exe 
+
+  ✅ Free navigation  The target is not noticed by the malware unless for Win defender
+
+  ❌ EDR bypass       The payload does not have any obfuscation. It is an ethical work
+
+
+```
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
