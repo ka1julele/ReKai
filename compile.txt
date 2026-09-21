@@ -1,1 +1,1 @@
-GOOS=windows GOARCH=amd64 go build -ldflags="-H windowsgui -s -w" -o software.exe reverse_shell.go
+GOOS=windows GOARCH=amd64 go build -ldflags="-H windowsgui -s -w" -o software.exe payload.go

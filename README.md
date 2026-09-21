@@ -4,7 +4,7 @@
 This payload allows pentesters to experiment over TCP connections and can be useful for those who are learning about reverse engineering and malware analysis.
 
 The payload does NOT include any obfuscation attemp or any other syscall than TCP conection. It is a ethical purpose working. However, this payload
-can be used for gain access into machines you don't have permissions. Please, allways use it in Virtual Machines or controlled LABs.
+can be used to gain access into machines you don't have permissions. Please, allways use it in Virtual Machines or controlled LABs.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -12,11 +12,13 @@ can be used for gain access into machines you don't have permissions. Please, al
 
 ```bash
                     
-  ✅ Hides CMD        The Payload hides cmd.exe 
+  ✅ Hides CMD         The Payload hides cmd.exe 
 
-  ✅ Free navigation  The target is not noticed by the malware unless for Win defender
+  ✅ Free navigation   The target is not noticed by the malware unless for Win defender
 
-  ❌ EDR bypass       The payload does not have any obfuscation. It is an ethical work
+  ⚠️ Aantivirus bypass  It can bypass WinDefender automated scans if the payload is alredy loaded.
+
+  ❌ EDR bypass        The payload does not have any obfuscation. It is an ethical work
 
 
 ```
@@ -129,6 +131,24 @@ Listening on 0.0.0.0 4444
 
 📹 see demo in **demo.mp4** 
 
+## ⚠️  Disclaimer
 
+```bash
 
+This is for nefarious purposes only. The payload can partially bypass some scans automated by Windows Defender and, as it is a simple malware with no known signatures,
+the victim may not be warned by the corresponding response process.
+Please do not use this malware to attack systems that you do not have access to.
 
+Tested on Windows 10 / 11
+
+```
+
+## 💞 Sponsor
+
+Our dear cybersecurity discord group : https://discord.gg/PKwfaETBD
+
+```bash
+
+if the dc link is expired, contact me in Gmail : kaijul3le@gmail.com
+
+```
