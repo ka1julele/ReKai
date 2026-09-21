@@ -16,7 +16,7 @@ can be used to gain access into machines you don't have permissions. Please, all
 
   ✅ Free navigation   The target is not noticed by the malware unless for Win defender
 
-  ⚠️ Aantivirus bypass  It can bypass WinDefender automated scans if the payload is alredy loaded.
+  ⚠️ Aativirus bypass  It can bypass WinDefender automated scans if the payload is alredy loaded.
 
   ❌ EDR bypass        The payload does not have any obfuscation. It is an ethical work
 
@@ -135,7 +135,8 @@ Listening on 0.0.0.0 4444
 
 ```bash
 
-This is for nefarious purposes only. The payload can partially bypass some scans automated by Windows Defender and, as it is a simple malware with no known signatures,
+This is for nefarious purposes only. The payload can partially bypass some scans automated by Windows Defender and,
+as it is a simple malware with no known signatures,
 the victim may not be warned by the corresponding response process.
 Please do not use this malware to attack systems that you do not have access to.
 
@@ -145,10 +146,10 @@ Tested on Windows 10 / 11
 
 ## 💞 Sponsor
 
-Our dear cybersecurity discord group : https://discord.gg/PKwfaETBD
+join our cybersecurity discord community : https://discord.gg/PKwfaETBD
 
 ```bash
 
-if the dc link is expired, contact me in Gmail : kaijul3le@gmail.com
+if the dc link is expired, contact me on Gmail : kaijul3le@gmail.com
 
 ```
