@@ -16,7 +16,7 @@ can be used to gain access into machines you don't have permissions. Please, all
 
   ✅ Free navigation   The target is not noticed by the malware unless for Win defender
 
-  ⚠️ Aativirus bypass  It can bypass WinDefender automated scans if the payload is alredy loaded.
+  ⚠️ Aantivirus bypass  It can bypass WinDefender automated scans if the payload is alredy loaded.
 
   ❌ EDR bypass        The payload does not have any obfuscation. It is an ethical work
 
